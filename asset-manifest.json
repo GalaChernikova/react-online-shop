@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/GalaChernikova/react-online-shop.git/static/css/main.b4b19def.css",
+    "main.js": "/GalaChernikova/react-online-shop.git/static/js/main.9a9672ce.js",
+    "static/js/787.28cb0dcd.chunk.js": "/GalaChernikova/react-online-shop.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/main.png": "/GalaChernikova/react-online-shop.git/static/media/main.ffe9e36f4d1d670628e2.png",
+    "static/media/shopping.png": "/GalaChernikova/react-online-shop.git/static/media/shopping.884d5c48251e16c065fc.png",
+    "static/media/delivery.png": "/GalaChernikova/react-online-shop.git/static/media/delivery.3228a2b051dfa1e5d79b.png",
+    "static/media/cart.png": "/GalaChernikova/react-online-shop.git/static/media/cart.cb9035b69ae7eb2b57ee.png",
+    "index.html": "/GalaChernikova/react-online-shop.git/index.html",
+    "main.b4b19def.css.map": "/GalaChernikova/react-online-shop.git/static/css/main.b4b19def.css.map",
+    "main.9a9672ce.js.map": "/GalaChernikova/react-online-shop.git/static/js/main.9a9672ce.js.map",
+    "787.28cb0dcd.chunk.js.map": "/GalaChernikova/react-online-shop.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4b19def.css",
+    "static/js/main.9a9672ce.js"
+  ]
+}
